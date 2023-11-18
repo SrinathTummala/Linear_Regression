@@ -1,4 +1,4 @@
-# Linear Regression Assignment- Boom Bikes
+# Linear Regression - Boom Bikes
 > This Assignment is based on the rental bikes data set from a company called Boom Bikes.
 
 
